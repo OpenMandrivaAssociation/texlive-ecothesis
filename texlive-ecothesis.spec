@@ -1,6 +1,6 @@
 Name:		texlive-ecothesis
 Version:	48007
-Release:	1
+Release:	2
 Summary:	LaTeX thesis template for the Universidade Federal de Vicosa (UFV), Brazil
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ecothesis
